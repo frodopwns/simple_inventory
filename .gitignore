@@ -1,0 +1,10 @@
+*.pyc
+*.db
+*.txt
+*.pynb
+build
+docs/_build
+docs/_build/*
+local_settings.py
+.idea
+docs/.ipynb_checkpoints
